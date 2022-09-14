@@ -26,6 +26,7 @@ Using an API client such as Insomnia, you are able to make http requests to perf
 - MongoDB
 - Mongoose
 
-## [Click Here to View Demo]()
+## Demo
+[social-net-walkthrough.webm](https://user-images.githubusercontent.com/103770316/190253508-f950ee9c-1e56-4908-a21c-464aa7962091.webm)
 
 ## Created by [Carly Pritchard](https://github.com/cjpritch)
