@@ -24,14 +24,11 @@ router
 .put(updateThought)
 .post(addThought);
 
-
 // /api/thoughts/<userId>/<thoughtId>
 router
 .route('/:userId/:thoughtId')
 .post(addReaction)
 .delete(removeThought);
-
-
 
 // /api/thoughts/<userId>/<thoughtId>/<reactionId>
 router
