@@ -1,23 +1,23 @@
 # Social Network API
 
-<h2> Table of Contents </h2> 
+## Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologiesused)
 
-<h2>Description</h2>
+### Description
 
-<p>This application was created to function as the backend for a social media network using Express JS, Node JS, MongoDB, Mongoose, and NoSQL. </p>
+This application was created to function as the backend for a social media network using Express JS, Node JS, MongoDB, Mongoose, and NoSQL. 
 
-<h2>Installation</h2>
-<p>To get started, clone this repository and navigate into it. Then run `npm install` to install any dependencies, and `npm start` to start the server.</p>
+### Installation
+To get started, clone this repository and navigate into it. Then run `npm install` to install any dependencies, and `npm start` to start the server.
 
-<h2>Usage</h2>
-<p>Using an API client such as Insomnia, you are able to make http requests to perform CRUD methods on the database.</p>
+### Usage
+Using an API client such as Insomnia, you are able to make http requests to perform CRUD methods on the database.
 
-<h2>Technologies Used</h2>
+### Technologies Used
 
 - Javascript
 - Express JS
@@ -28,4 +28,4 @@
 
 ## [Click Here to View Demo]()
 
-Created by [Carly Pritchard](https://github.com/cjpritch)
+## Created by [Carly Pritchard](https://github.com/cjpritch)
